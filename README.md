@@ -1,4 +1,4 @@
-** Analysis of sleep deprivation time series
+## Analysis of sleep deprivation time series
 
 Welcome to scripts linking sleep deprivation analysis: https://www.pnas.org/content/early/2019/11/26/1910590116.short?rss=1
 
